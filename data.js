@@ -17,7 +17,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROF. LILIANE(QUÍMICA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/1mOW6HoBQ8ppLa7r3vG3MtcxuIEI-s34i/view?usp=sharing"
 		},
 		{
@@ -26,7 +26,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROF. LUIZ BRUNELLI (MATEMÁTICA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/12D9Wwmjd4_RK5tbeOxyIZSvRzGVWSBCb/view?usp=sharing"
 		},
 		{
@@ -35,7 +35,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROF. LUIZ (GEOGRAFIA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/1jKgJNtB-VLfN0Iaj_PEflKfimL_ho2XI/view?usp=sharing"
 		},
 		{
@@ -44,7 +44,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROFª MIEKO (HISTÓRIA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/15EssUCJhbKJtwhAX_RIL1Tv0CxVBoKbi/view?usp=sharing"
 		},
 		{
@@ -53,7 +53,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROFª JOANA",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/1bAuMTgo3b8ZZUVLemVb-qS_UcEAg0wQF/view?usp=sharing"
 		},
 		{
@@ -62,7 +62,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROF. LUIZ (GEOGRAFIA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/1xgaaOQaASYB6mi02jUd9FVnQzAl_YBcw/view?usp=sharing"
 		},
 		{
@@ -71,7 +71,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROF. DEJAIME (FÍSICA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/13tnRfmHkwwijzQzP--CHsc6NyhwOodMR/view?usp=sharing"
 		},
 		{
@@ -80,7 +80,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROFª ELAINE",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/1vO-dQbZIUj4l9ZlTTiw4e9nKBpFbK0w8/view?usp=sharing"
 		},
 		{
@@ -89,7 +89,7 @@ let data =
 			"date": "Não especificada",
 			"content": "ATIVIDADES DOMICILIARES - PROFª ANDRÉIA (BIOLOGIA)",
 			"content-image": "image_location",
-			"from": "Facebook",
+			"from": "Blog",
 			"url": "https://drive.google.com/file/d/1nNZu85v0jwVBtxDOLckrwlRS1LK0Fzk3/view?usp=sharing"
 		},
 		{
