@@ -1,19 +1,6 @@
 data = JSON.parse(data);
 
-function createCard(){
-	let card = document.createElement('div');
-	card.className = 'card';
-
-	let profile = document.createElement('img');
-	profile.className = 'card-img-top';
-	profile.src = "...";
-	profile.alt = "";
-
-
-	document.getElementById('cards').appendChild(card);
-}
-
-function test(n){
+function createCard(n){
 	let container = document.getElementById('cards')
 
 	container.innerHTML += "<div class='card'>";
@@ -36,7 +23,18 @@ function test(n){
 	//
 	container.innerHTML += "<li class='list-group-item'>" + data.teachers[data.posts[n]['teacher']]['field'] + "</li>";
 	//
-	container.innerHTML += "<li class='list-group-item'>" + data.posts[n]['from'] + "</li>";
+	if(data.posts[n]['from'] == "Classroom"){
+		container.innerHTML += "<li class='list-group-item list-group-item-success'>" + data.posts[n]['from'] + "</li>";
+	}
+	if(data.posts[n]['from'] == "Facebook"){
+		container.innerHTML += "<li class='list-group-item list-group-item-primary'>" + data.posts[n]['from'] + "</li>";
+	}
+	if(data.posts[n]['from'] == "Blog"){
+		container.innerHTML += "<li class='list-group-item list-group-item-warning'>" + data.posts[n]['from'] + "</li>";
+	}
+	else {
+		container.innerHTML += "<li class='list-group-item'>" + data.posts[n]['from'] + "</li>";
+	}
 	container.innerHTML += "<li class='list-group-item'>" 
 	+ 'Entrega '
 	+ data.posts[n]['date'] 
@@ -53,6 +51,5 @@ function test(n){
 }
 
 for(let i = 0; i < data.posts.length; i++){
-	test(i);
-	//createCard();
+	createCard(i);
 }
